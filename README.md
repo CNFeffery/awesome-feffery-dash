@@ -6,7 +6,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-antd-components.svg?color=dark-green)](https://pypi.org/project/feffery-antd-components/)
 
-- 额外工具组件库：`feffery-utils-components` ➡️ https://github.com/CNFeffery/feffery-utils-components
+- 实用工具组件库：`feffery-utils-components` ➡️ https://github.com/CNFeffery/feffery-utils-components
 
 > 推荐导入方式：`import feffery_utils_components as fuc`
 
