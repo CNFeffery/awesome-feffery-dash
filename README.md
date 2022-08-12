@@ -12,7 +12,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-utils-components.svg?color=dark-green)](https://pypi.org/project/feffery-utils-components/)
 
-- 常规数据可视化：`feffery-antd-charts` ➡️ https://github.com/CNFeffery/feffery-antd-charts
+- 通用数据可视化框架：`feffery-antd-charts` ➡️ https://github.com/CNFeffery/feffery-antd-charts
 
 > 推荐导入方式：`import feffery_antd_charts as fact`
 
@@ -24,7 +24,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-markdown-components.svg?color=dark-green)](https://pypi.org/project/feffery-markdown-components/)
 
-- 地图可视化：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
+- 交互式地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
 
 > 推荐导入方式：`import feffery_leaflet_components as flc`
 
