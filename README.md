@@ -24,7 +24,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-markdown-components.svg?color=dark-green)](https://pypi.org/project/feffery-markdown-components/)
 
-- （👨‍💻测试阶段）交互式地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
+- （👨‍💻测试阶段）交互式在线地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
 
 > 推荐导入方式：`import feffery_leaflet_components as flc`
 
