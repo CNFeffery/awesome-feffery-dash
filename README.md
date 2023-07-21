@@ -24,8 +24,14 @@
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-markdown-components.svg?color=dark-green)](https://pypi.org/project/feffery-markdown-components/)
 
-- （👨‍💻测试阶段）交互式在线地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
+- （👨‍💻测试阶段）轻量在线地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
 
 > 推荐导入方式：`import feffery_leaflet_components as flc`
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-leaflet-components.svg?color=dark-green)](https://pypi.org/project/feffery-leaflet-components/)
+
+- （👨‍💻测试阶段）高性能在线地图框架：`feffery-maplibre` ➡️ https://github.com/CNFeffery/feffery-maplibre
+
+> 推荐导入方式：`import feffery_maplibre as fm`
+
+[![PyPI](https://img.shields.io/pypi/v/feffery-maplibre.svg?color=dark-green)](https://pypi.org/project/feffery-maplibre/)
