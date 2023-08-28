@@ -35,3 +35,9 @@
 > 推荐导入方式：`import feffery_maplibre as fm`
 
 [![PyPI](https://img.shields.io/pypi/v/feffery-maplibre.svg?color=dark-green)](https://pypi.org/project/feffery-maplibre/)
+
+- （👨‍💻测试阶段）移动端通用网页组件库：`feffery-antd-mobile-components` ➡️ https://github.com/CNFeffery/feffery-antd-mobile-components
+
+> 推荐导入方式：`import feffery_antd_mobile_components as famc`
+
+[![PyPI](https://img.shields.io/pypi/v/feffery-antd-mobile-components.svg?color=dark-green)](https://pypi.org/project/feffery-antd-mobile-components/)
