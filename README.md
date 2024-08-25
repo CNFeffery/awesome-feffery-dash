@@ -1,43 +1,81 @@
-# feffery-dash-components
+# awesome-feffery-dash
 
-- 通用网页组件库：`feffery-antd-components` ➡️ https://github.com/CNFeffery/feffery-antd-components 
+简体中文 | [English](./README-en_US.md)
 
-> 推荐导入方式：`import feffery_antd_components as fac`
+围绕高效[Dash](https://github.com/plotly/dash)应用开发为主题的综合性解决方案。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-antd-components.svg?color=dark-green)](https://pypi.org/project/feffery-antd-components/)
+## 1 组件库
 
-- 实用工具组件库：`feffery-utils-components` ➡️ https://github.com/CNFeffery/feffery-utils-components
+### 1.1 [feffery-antd-components](https://github.com/CNFeffery/feffery-antd-components)
 
-> 推荐导入方式：`import feffery_utils_components as fuc`
+简称`fac`，基于流行的`React`UI组件库`Ant Design`构建的网页通用功能组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-utils-components.svg?color=dark-green)](https://pypi.org/project/feffery-utils-components/)
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-antd-components
+>
+> 官网地址：https://fac.feffery.tech/
 
-- （👨‍💻测试阶段）通用数据可视化框架：`feffery-antd-charts` ➡️ https://github.com/CNFeffery/feffery-antd-charts
+### 1.2 [feffery-utils-components](https://github.com/CNFeffery/feffery-utils-components)
 
-> 推荐导入方式：`import feffery_antd_charts as fact`
+简称`fuc`，基于`React`及`JavaScript`生态中众多功能框架构建的实用工具组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-antd-charts.svg?color=dark-green)](https://pypi.org/project/feffery-antd-charts/)
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-utils-components
+>
+> 官网地址：https://fuc.feffery.tech/
 
-- markdown渲染：`feffery-markdown-components` ➡️ https://github.com/CNFeffery/feffery-markdown-components
+### 1.3 [feffery-markdown-components](https://github.com/CNFeffery/feffery-markdown-components)
 
-> 推荐导入方式：`import feffery_markdown_components as fmc`
+简称`fmc`，基于`react-markdown`构建的`markdown`内容多功能渲染组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-markdown-components.svg?color=dark-green)](https://pypi.org/project/feffery-markdown-components/)
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-markdown-components
+>
+> 官网地址：https://fmc.feffery.tech/
 
-- （👨‍💻测试阶段）轻量在线地图框架：`feffery-leaflet-components` ➡️ https://github.com/CNFeffery/feffery-leaflet-components
+### 1.4 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components)
 
-> 推荐导入方式：`import feffery_leaflet_components as flc`
+简称`flc`，基于`leaflet`构建的轻量在线地图组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-leaflet-components.svg?color=dark-green)](https://pypi.org/project/feffery-leaflet-components/)
+> 当前阶段：测试版本🐣
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-leaflet-components
 
-- （👨‍💻测试阶段）高性能在线地图框架：`feffery-maplibre` ➡️ https://github.com/CNFeffery/feffery-maplibre
+### 1.5 [feffery-maplibre](https://github.com/CNFeffery/feffery-maplibre)
 
-> 推荐导入方式：`import feffery_maplibre as fm`
+简称`fm`，基于`maplibre`构建的高性能二三维在线地图组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-maplibre.svg?color=dark-green)](https://pypi.org/project/feffery-maplibre/)
+> 当前阶段：测试版本🐣
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-maplibre
 
-- （👨‍💻测试阶段）移动端通用网页组件库：`feffery-antd-mobile-components` ➡️ https://github.com/CNFeffery/feffery-antd-mobile-components
+### 1.6 [feffery-antd-mobile-components](https://github.com/CNFeffery/feffery-antd-mobile-components)
 
-> 推荐导入方式：`import feffery_antd_mobile_components as famc`
+简称`famc`，基于`Ant Design Mobile`的移动端网页通用组件库。
 
-[![PyPI](https://img.shields.io/pypi/v/feffery-antd-mobile-components.svg?color=dark-green)](https://pypi.org/project/feffery-antd-mobile-components/)
+> 当前阶段：测试版本🐣
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-antd-mobile-components
+
+## 2 插件
+
+### 2.1 [feffery-dash-snippets](https://github.com/CNFeffery/feffery-dash-snippets)
+
+`vscode`插件，提供了大量的`Dash`应用开发快捷代码生成功能。
+
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-dash-snippets
+
+## 3 其他辅助库
+
+### 3.1 [feffery-dash-utils](https://github.com/CNFeffery/feffery-dash-utils)
+
+`Dash`应用开发工具函数库，内置多种工具函数及方法，为不同`Dash`应用功能开发场景提供开箱即用的最佳实践方案。
+
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-dash-utils
