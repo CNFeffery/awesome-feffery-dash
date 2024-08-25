@@ -79,3 +79,18 @@
 > 当前阶段：正式版本🚀
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-dash-utils
+
+## 更多教程、案例及资料
+
+### 微信公众号“玩转Dash”，欢迎扫码关注
+
+<p align="center" >
+  <img src="https://github.com/user-attachments/assets/28fa3ede-901f-442b-a4ae-3d086b9a3797" />
+</p>
+
+### “玩转Dash”知识星球，海量教程案例模板资源，以及专业的一对一答疑，欢迎扫码加入
+
+<p align="center" >
+  <img src="https://github.com/user-attachments/assets/b885afaa-e13a-4431-a837-f2d2f10904a9" />
+
+</p>
