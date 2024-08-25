@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) | English
 
-A comprehensive solution centered around efficient [Dash](https://github.com/plotly/dash) application development.
+🤩A comprehensive solution centered around efficient [Dash](https://github.com/plotly/dash) application development.
 
 ## 1 Component Libraries
 
