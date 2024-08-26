@@ -36,29 +36,37 @@ Short for `fmc`, a library of multifunctional rendering components for `markdown
 >
 > Official Website Address: https://fmc.feffery.tech/ 
 
-### 1.4 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components) 
+### 1.4 [feffery-antd-charts](https://github.com/CNFeffery/feffery-antd-charts) 
 
-Short for `flc`, a lightweight online map component library built based on `leaflet`.
+Short for `fact`, a data visualization component library built on `Ant Design Charts`.
 
-> Current Stage: Testing Version🐣
+> Current stage: Testing version 🐣
 >
-> Repository Address: https://github.com/CNFeffery/feffery-leaflet-components 
+> Repository address: https://github.com/CNFeffery/feffery-antd-charts 
 
-### 1.5 [feffery-maplibre](https://github.com/CNFeffery/feffery-maplibre) 
+### 1.5 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components) 
 
-Short for `fm`, a high-performance 2D and 3D online map component library built based on `maplibre`.
+Short for `flc`, a lightweight online map component library built on `leaflet`.
 
-> Current Stage: Testing Version🐣
+> Current stage: Testing version 🐣
 >
-> Repository Address: https://github.com/CNFeffery/feffery-maplibre 
+> Repository address: https://github.com/CNFeffery/feffery-leaflet-components 
 
-### 1.6 [feffery-antd-mobile-components](https://github.com/CNFeffery/feffery-antd-mobile-components) 
+### 1.6 [feffery-maplibre](https://github.com/CNFeffery/feffery-maplibre) 
 
-Short for `famc`, a library of general-purpose mobile web components built based on `Ant Design Mobile`.
+Short for `fm`, a high-performance 2D and 3D online map component library built on `maplibre`.
 
-> Current Stage: Testing Version🐣
+> Current stage: Testing version 🐣
 >
-> Repository Address: https://github.com/CNFeffery/feffery-antd-mobile-components 
+> Repository address: https://github.com/CNFeffery/feffery-maplibre 
+
+### 1.7 [feffery-antd-mobile-components](https://github.com/CNFeffery/feffery-antd-mobile-components) 
+
+Short for `famc`, a general mobile web component library for mobile devices based on `Ant Design Mobile`.
+
+> Current stage: Testing version 🐣
+>
+> Repository address: https://github.com/CNFeffery/feffery-antd-mobile-components
 
 ## 2 Plugins
 
