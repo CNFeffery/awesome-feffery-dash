@@ -36,7 +36,15 @@
 >
 > 官网地址：https://fmc.feffery.tech/
 
-### 1.4 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components)
+### 1.4 [feffery-antd-charts](https://github.com/CNFeffery/feffery-antd-charts)
+
+简称`fact`，基于`Ant Design Charts`构建的数据可视化组件库。
+
+> 当前阶段：测试版本🐣
+>
+> 仓库地址：https://github.com/CNFeffery/feffery-antd-charts
+
+### 1.5 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components)
 
 简称`flc`，基于`leaflet`构建的轻量在线地图组件库。
 
@@ -44,7 +52,7 @@
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-leaflet-components
 
-### 1.5 [feffery-maplibre](https://github.com/CNFeffery/feffery-maplibre)
+### 1.6 [feffery-maplibre](https://github.com/CNFeffery/feffery-maplibre)
 
 简称`fm`，基于`maplibre`构建的高性能二三维在线地图组件库。
 
@@ -52,7 +60,7 @@
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-maplibre
 
-### 1.6 [feffery-antd-mobile-components](https://github.com/CNFeffery/feffery-antd-mobile-components)
+### 1.7 [feffery-antd-mobile-components](https://github.com/CNFeffery/feffery-antd-mobile-components)
 
 简称`famc`，基于`Ant Design Mobile`的移动端网页通用组件库。
 
