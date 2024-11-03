@@ -1,4 +1,4 @@
-# awesome-feffery-dash [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# awesome-feffery-dash
 
 简体中文 | [English](./README-en_US.md)
 
