@@ -1,5 +1,9 @@
 # awesome-feffery-dash
 
+<p align="center">
+	<img src="./imgs/awesome-feffery-dash.svg" height=150></img>
+</p>
+
 [简体中文](./README.md) | English
 
 🤩A comprehensive solution centered around efficient [Dash](https://github.com/plotly/dash) application development.
