@@ -8,6 +8,21 @@
 
 🤩围绕高效[Dash](https://github.com/plotly/dash)应用开发为主题的综合性解决方案。
 
+## 更多Dash应用教程、案例及资料
+
+> 微信公众号「玩转Dash」，欢迎扫码关注👇
+
+<p align="center" >
+  <img src="./imgs/公众号.png" height=220 />
+</p>
+
+> 「玩转Dash」知识星球，海量教程案例模板资源，专业的答疑咨询服务，欢迎扫码加入👇
+
+<p align="center" >
+  <img src="./imgs/知识星球.jpg" height=220 />
+</p>
+
+
 ## 1 组件库
 
 ### 1.1 [feffery-antd-components](https://github.com/CNFeffery/feffery-antd-components)
@@ -91,19 +106,3 @@
 > 当前阶段：正式版本🚀
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-dash-utils
-
-## 更多Dash应用教程、案例及资料
-
-> 微信公众号「玩转Dash」，欢迎扫码关注
-
-<p align="center" >
-  <img src="./imgs/公众号.png" />
-</p>
-
-> 「玩转Dash」知识星球，海量教程案例模板资源，专业的答疑咨询服务，欢迎扫码加入
-
-<p align="center" >
-  <img src="./imgs/知识星球.jpg" />
-
-
-</p>
