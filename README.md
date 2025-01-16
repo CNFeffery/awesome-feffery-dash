@@ -59,9 +59,11 @@
 
 简称`fact`，基于`Ant Design Charts`构建的数据可视化组件库。
 
-> 当前阶段：测试版本🐣
+> 当前阶段：正式版本🚀
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-antd-charts
+>
+> 官网地址：https://fact.feffery.tech/
 
 ### 1.5 [feffery-leaflet-components](https://github.com/CNFeffery/feffery-leaflet-components)
 
