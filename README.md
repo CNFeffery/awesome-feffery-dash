@@ -108,3 +108,13 @@
 > 当前阶段：正式版本🚀
 >
 > 仓库地址：https://github.com/CNFeffery/feffery-dash-utils
+
+## 4 模板库
+
+### 4.1 [magic-dash](https://github.com/CNFeffery/magic-dash)
+
+命令行工具，用于快捷生成一系列开箱即用✨的标准[Dash](https://github.com/plotly/dash)应用工程模板。
+
+> 当前阶段：正式版本🚀
+>
+> 仓库地址：https://github.com/CNFeffery/magic-dash
