@@ -91,3 +91,13 @@ A utility function library for `Dash` application development, which includes a 
 > Current Stage: Official Version🚀
 >
 > Repository Address: https://github.com/CNFeffery/feffery-dash-utils
+
+## 4 Template Libraries
+
+### 4.1 [magic-dash](https://github.com/CNFeffery/magic-dash) 
+
+A command-line tool for quickly generating a series of out-of-the-box✨ standard [Dash](https://github.com/plotly/dash) application project templates.
+
+> Current Stage: Official Version🚀
+>
+> Repository Address: https://github.com/CNFeffery/magic-dash
